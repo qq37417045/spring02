@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Spring06/Spring06.iml" filepath="$PROJECT_DIR$/../Spring06/Spring06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../act01/act01.iml" filepath="$PROJECT_DIR$/../act01/act01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../act02/act02.iml" filepath="$PROJECT_DIR$/../act02/act02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../act03/act03.iml" filepath="$PROJECT_DIR$/../act03/act03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqcommon/dqcommon.iml" filepath="$PROJECT_DIR$/../dqparent/dqcommon/dqcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqmanagerdao/dqmanagerdao.iml" filepath="$PROJECT_DIR$/../dqparent/dqmanagerdao/dqmanagerdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqmanagerservice/dqmanagerservice.iml" filepath="$PROJECT_DIR$/../dqparent/dqmanagerservice/dqmanagerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqmanagerweb/dqmanagerweb.iml" filepath="$PROJECT_DIR$/../dqparent/dqmanagerweb/dqmanagerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqparent.iml" filepath="$PROJECT_DIR$/../dqparent/dqparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dqparent/dqportalweb/dqportalweb.iml" filepath="$PROJECT_DIR$/../dqparent/dqportalweb/dqportalweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate01/hibernate01.iml" filepath="$PROJECT_DIR$/../hibernate01/hibernate01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate02/hibernate02.iml" filepath="$PROJECT_DIR$/../hibernate02/hibernate02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate04/hibernate04.iml" filepath="$PROJECT_DIR$/../hibernate04/hibernate04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate05JPA/hibernate05JPA.iml" filepath="$PROJECT_DIR$/../hibernate05JPA/hibernate05JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate06jpa/hibernate06jpa.iml" filepath="$PROJECT_DIR$/../hibernate06jpa/hibernate06jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring05/newSpring05.iml" filepath="$PROJECT_DIR$/../spring05/newSpring05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redis01/redis01.iml" filepath="$PROJECT_DIR$/../redis01/redis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro01/shiro01.iml" filepath="$PROJECT_DIR$/../shiro01/shiro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro02/shiro02.iml" filepath="$PROJECT_DIR$/../shiro02/shiro02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sm01/sm01.iml" filepath="$PROJECT_DIR$/../sm01/sm01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sm02/sm02.iml" filepath="$PROJECT_DIR$/../sm02/sm02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sm03/sm03.iml" filepath="$PROJECT_DIR$/../sm03/sm03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02.iml" filepath="$PROJECT_DIR$/spring02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring03/spring03.iml" filepath="$PROJECT_DIR$/../spring03/spring03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../spring04/spring04.iml" filepath="$PROJECT_DIR$/../../spring04/spring04.iml" />
+      <module fileurl="file://E:\WorkSpace_qf\第三阶段\spring05\spring05.iml" filepath="E:\WorkSpace_qf\第三阶段\spring05\spring05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring07/spring07.iml" filepath="$PROJECT_DIR$/../spring07/spring07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springJdbc/springJdbc.iml" filepath="$PROJECT_DIR$/../springJdbc/springJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvc/springmvc.iml" filepath="$PROJECT_DIR$/../springmvc/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvc02/springmvc02.iml" filepath="$PROJECT_DIR$/../springmvc02/springmvc02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvc04/springmvc04.iml" filepath="$PROJECT_DIR$/../springmvc04/springmvc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvc05/springmvc05.iml" filepath="$PROJECT_DIR$/../springmvc05/springmvc05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springmvc06/springmvc06.iml" filepath="$PROJECT_DIR$/../springmvc06/springmvc06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm01/ssm01.iml" filepath="$PROJECT_DIR$/../ssm01/ssm01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm02/ssm02.iml" filepath="$PROJECT_DIR$/../ssm02/ssm02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssshj/ssshj.iml" filepath="$PROJECT_DIR$/../ssshj/ssshj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test01/test01.iml" filepath="$PROJECT_DIR$/../test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webService01/webService01.iml" filepath="$PROJECT_DIR$/../webService01/webService01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webService02/webService02.iml" filepath="$PROJECT_DIR$/../webService02/webService02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webService04/webService04.iml" filepath="$PROJECT_DIR$/../webService04/webService04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webclient01/webclient01.iml" filepath="$PROJECT_DIR$/../webclient01/webclient01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webclient02/webclient02.iml" filepath="$PROJECT_DIR$/../webclient02/webclient02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webclient03/webclient03.iml" filepath="$PROJECT_DIR$/../webclient03/webclient03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webservice03/webservice03.iml" filepath="$PROJECT_DIR$/../webservice03/webservice03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yun/yun.iml" filepath="$PROJECT_DIR$/../yun/yun.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dqportalweb:war">
+    <output-path>$PROJECT_DIR$/../dqparent/dqportalweb/target</output-path>
+    <root id="archive" name="dqportalweb.war">
+      <element id="artifact" artifact-name="dqportalweb:war exploded" />
+    </root>
+  </artifact>
+</component>
